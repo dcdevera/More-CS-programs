@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=singleLList
+comment1.params=item
+comment1.target=void\ addFirst(java.lang.Object)
+comment2.params=node\ item
+comment2.target=void\ addAfter(Node,\ java.lang.Object)
+comment3.params=node
+comment3.target=java.lang.Object\ removeAfter(Node)
+comment4.params=
+comment4.target=java.lang.Object\ removeFirst()
+comment5.params=index
+comment5.target=Node\ getNode(int)
+comment6.params=index
+comment6.target=java.lang.Object\ get(int)
+comment7.params=
+comment7.target=int\ size()
+numComments=8

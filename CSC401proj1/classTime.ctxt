@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=classTime
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ classRoom\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=i\ start\ end
+comment1.target=classTime(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getInterval()
+comment3.params=i
+comment3.target=void\ setInterval(int)
+comment4.params=
+comment4.target=int\ getStartTime()
+comment5.params=start
+comment5.target=void\ setStartTime(int)
+comment6.params=
+comment6.target=int\ getEndTime()
+comment7.params=end
+comment7.target=void\ setEndTime(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

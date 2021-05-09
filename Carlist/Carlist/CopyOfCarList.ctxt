@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CopyOfCarList
+comment1.params=obj
+comment1.target=void\ add(java.lang.Comparable)
+comment2.params=index
+comment2.target=java.lang.Comparable\ get(int)
+comment3.params=
+comment3.target=java.util.Iterator\ iterator()
+comment4.params=
+comment4.target=int\ size()
+comment5.params=obj
+comment5.target=void\ remove(java.lang.Comparable)
+numComments=6

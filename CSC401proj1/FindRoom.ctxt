@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FindRoom
+comment1.params=
+comment1.target=void\ start()
+comment2.params=start\ end
+comment2.target=int\ randomNum(int,\ int)
+comment3.params=i\ startTime\ endTime
+comment3.target=classTime\ randomInterval(int,\ int,\ int)
+numComments=4
